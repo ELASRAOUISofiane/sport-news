@@ -1,0 +1,36 @@
+*{
+    padding: 10px;
+}
+
+.style{
+    font-size: xx-large ;
+    font-style: italic;
+} 
+.style p {
+    font-size: 18px ;
+    font-style: normal;
+}
+.style2{
+    font-size: xx-large;
+    font-style: italic;
+}
+.style2 p{
+    font-size: 18px ;
+    font-style: normal;
+}
+.style3{
+    font-size: xx-large;
+    font-style: italic;
+}
+.style3 p {
+    font-size: 18px ;
+    font-style: normal;
+}
+.style4{ 
+    font-size: xx-large;
+    font-style: italic;
+}
+.style4 p{
+    font-size: 18px ;
+    font-style: normal;
+}
