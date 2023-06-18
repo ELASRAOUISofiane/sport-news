@@ -1,0 +1,48 @@
+/* Block styles */
+.card {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  /* Element styles */
+  .card__title {
+    font-size: 24px;
+    color: #333;
+  }
+  .card__description {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  /* Modifier styles */
+  .card--highlighted {
+    background-color: #ffc107;
+  }
+  
+  .button--large {
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+
+  .footer{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(34, 163, 34);
+  }
+  .footer__email{
+    font-size: 25px;
+    font-style: italic;
+    color: #333;
+  }
+  .footer__tel{
+   font-style: italic;
+   font-size: 25px; 
+   color: #333;
+  }
+  .footer__location{
+    font-style: italic;
+    font-size: 25px;
+    color: #333;
+  }
+  
+  

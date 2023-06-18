@@ -2,35 +2,35 @@
     padding: 10px;
 }
 
-.style{
+.subject__football{
     font-size: xx-large ;
     font-style: italic;
 } 
-.style p {
+.subject__football p {
     font-size: 18px ;
     font-style: normal;
 }
-.style2{
+.subject__handball{
     font-size: xx-large;
     font-style: italic;
 }
-.style2 p{
+.subject__handball p{
     font-size: 18px ;
     font-style: normal;
 }
-.style3{
+.subject__basketball{
     font-size: xx-large;
     font-style: italic;
 }
-.style3 p {
+.subject__basketball p {
     font-size: 18px ;
     font-style: normal;
 }
-.style4{ 
+.subject__tennis{ 
     font-size: xx-large;
     font-style: italic;
 }
-.style4 p{
+.subject__tennis p{
     font-size: 18px ;
     font-style: normal;
 }

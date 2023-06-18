@@ -6,7 +6,7 @@ aside {
     background: brown;
 
 }
-div img{
+.aside__img{
     position: absolute ;
     margin: 0px;
     height: 650px ;
@@ -14,7 +14,6 @@ div img{
     object-fit: cover;
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
 }
 
 
